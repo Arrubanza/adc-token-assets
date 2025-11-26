@@ -1,0 +1,21 @@
+{
+  "name": "Africa Data Coin Token List",
+  "logoURI": "https://raw.githubusercontent.com/Arrubanza/adc-token-assets/main/blockchains/bsc/assets/0xf810573795b4c3d9686d8054b01d213838b4f0dd/logo.png",
+  "keywords": ["ADC", "Africa", "Data", "Coin"],
+  "timestamp": "2025-01-01T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xf810573795B4c3d9686d8054b01d213838B4f0dd",
+      "name": "Africa Data Coin",
+      "symbol": "ADC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Arrubanza/adc-token-assets/main/blockchains/bsc/assets/0xf810573795b4c3d9686d8054b01d213838b4f0dd/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
